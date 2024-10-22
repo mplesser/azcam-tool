@@ -115,7 +115,6 @@
 				<Property Name="App_INI_aliasGUID" Type="Str">{A2EAEA50-B48A-4ADD-9A7F-01D0D118F468}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{65BF6709-2468-4376-984B-4948C1FBE258}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{92263779-5691-46AA-99A9-48608E21D8AB}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">azcamtool</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -124,9 +123,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E2DA0A5-020E-4F5D-97C9-DBD3731879D0}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
-				<Property Name="Bld_version.major" Type="Int">22</Property>
-				<Property Name="Bld_version.minor" Type="Int">3</Property>
+				<Property Name="Bld_version.major" Type="Int">24</Property>
 				<Property Name="Destination[0].destName" Type="Str">azcamtool.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME.exe</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -144,16 +141,15 @@
 				<Property Name="Source[0].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applyProperties" Type="Bool">true</Property>
 				<Property Name="Source[0].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[0].itemID" Type="Str">{5EE9F0F2-5A18-4706-9421-4F4F1B4EBE23}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{62428BFE-B3E8-4AB2-9E85-95877F5606E3}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/azcam_tool/azcamtool.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_companyName" Type="Str">University of Arizona</Property>
 				<Property Name="TgtF_internalName" Type="Str">azcamtool</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2022 Arizona Board of Regents</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2024 Michael Lesser</Property>
 				<Property Name="TgtF_productName" Type="Str">azcamtool</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{4ADD37C7-977F-4239-9226-2F94D5A8C234}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">azcamtool.exe</Property>
