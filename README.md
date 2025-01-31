@@ -1,6 +1,6 @@
 # azcam-tool
 
-This [azcam](https://github.com/mplesser/azcam) extension implements a National Instruments LabVIEW GUI frontend which connects to an *azcamserver* application using the command socket interface.
+This [azcam](https://github.com/mplesser/azcam) extension implements a National Instruments LabVIEW GUI frontend app which connects to an *azcamserver* application using the command socket interface.
 
 It is used to control the acquisition of images for laboratory image acquisition as well as astronomical observing.
 
